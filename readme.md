@@ -1,4 +1,4 @@
-# Banco de dados da loja
+# Banco de dados da aplicação
 
 Esse é o banco de dados do todolist app
 
